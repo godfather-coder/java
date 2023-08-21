@@ -3,6 +3,6 @@ public class cw {
         congrate(19);
     }
     public static void congrate(int age){
-        System.out.println("congratulations "+ age+ " birthday!! ");
+        System.out.println("congratulation "+ age+ " birthday!! ");
     }
 }
